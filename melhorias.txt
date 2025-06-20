@@ -1,3 +1,0 @@
-1. Adicionar interface gráfica
-2. Criar sistema de login
-3. Salvar tarefas em banco de dados
